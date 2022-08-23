@@ -10,7 +10,7 @@ from gologin import get_random_port
 random_port = get_random_port()
 
 gl = GoLogin({
-	# add Token of your system's GoLogin below by going to settings>Api Documentation>Create new Token and paste.
+	# add Token of your system's GoLogin below by going to settings>Api Documentation>Create new Token and paste(Gif Provided in Github readme).
 	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MmZkZmM5YWQ3OTJkNzViNGMyYjc5MjEiLCJ0eXBlIjoiZGV2Iiwiand0aWQiOiI2MmZkZmY1OGRkZjZhNDNkZDY2NDc5MDkifQ.7iDdhqyTvLXJWt0e2hu5mjvvnrFQShgckdyC3pSPxEc",
 
 	# After creating new Profile for the store,click on option of the profile and copy Id and paste Below
