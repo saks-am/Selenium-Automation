@@ -2,7 +2,6 @@
 
 ## Getting Started
 # Open the gologin-selenium.py file and provide the specific details where comments are provided.
-# Official Package
 
 
 
@@ -12,13 +11,11 @@ GoLogin supports Linux, MacOS and Windows platforms.
 
 clone or download this repository
 
-`git clone https://github.com/gologinapp/pygologin.git`
+`https://github.com/saks-am/Selenium-Automation.git`
 
-for running gologin-selenium.py install selenium
+for running gologin-selenium.py install selenium below v4 (any version with 3.xx)
 
 `pip install selenium`
-
-for Selenium need download <a href="https://chromedriver.chromium.org/downloads" target="_blank">webdriver</a>
 
 ### Usage
 
