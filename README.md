@@ -1,10 +1,10 @@
 # Selenium X Gologin 
 
-
-# class GoLogin - class for working with <a href="https://gologin.com" target="_blank">gologin.com</a> API
+## Getting Started
+# Open the gologin-selenium.py file and provide the specific details where comments are provided.
 # Official Package
 
-## Getting Started
+
 
 GoLogin supports Linux, MacOS and Windows platforms.
 
