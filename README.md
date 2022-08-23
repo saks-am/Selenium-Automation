@@ -1,5 +1,5 @@
 # Selenium X Gologin 
- REST API provides programmatic access to GoLogin App. Create a new browser profile, get a list of all browser profiles, add a browser profile and running 
+
 
 # class GoLogin - class for working with <a href="https://gologin.com" target="_blank">gologin.com</a> API
 # Official Package
