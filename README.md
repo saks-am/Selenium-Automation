@@ -1,4 +1,4 @@
-# Selenium X Gologin 
+# Selenium X Gologin: Store Creation Automation
 
 ## Getting Started
 # Open the gologin-selenium.py file and provide the specific details where comments are provided.
